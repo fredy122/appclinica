@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Registro"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="92.0dp"
+            android:id="@+id/textView1"
+            android:gravity="center" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60.0dp"
+            android:id="@+id/txtnombre"
+            android:foregroundInsidePadding="false"
+            android:hint="Ingrese su Nombre" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="60.0dp"
+            android:id="@+id/txtcorreo"
+            android:foregroundInsidePadding="false"
+            android:hint="Ingrese su Correo" />
+        <EditText
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="60.0dp"
+            android:id="@+id/txtcontrasena"
+            android:foregroundInsidePadding="false"
+            android:hint="Ingrese su contraseña" />
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtcontrasena2"
+            android:hint="Repita la contraseña"
+            android:password="true" />
+        <Button
+            android:text="Registrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnregistrar" />
+        <Button
+            android:text="Regresar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnregresar" />
+    </LinearLayout>
+</LinearLayout>
