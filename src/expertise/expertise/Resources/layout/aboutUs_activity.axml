@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1">
+        <TextView
+            android:text="Acerca de"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:layout_marginBottom="13.5dp"
+            android:gravity="center"
+            android:textSize="15 px"
+            android:textColor="#ffe3f2fd" />
+        <TextView
+            android:text="El aplicativo mobil del centro odontologico expertise realiza reservas de citas online de manera aoutomatizada"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:layout_marginBottom="21.0dp" />
+        <TextView
+            android:text="Creditos"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:layout_marginBottom="15.0dp"
+            android:gravity="center"
+            android:textSize="15 px"
+            android:textColor="#fffafafa" />
+        <TextView
+            android:text="A todo el equipode desarrollo, que gracias asus conocimientos se logro la realizacion"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4" />
+    </LinearLayout>
+</LinearLayout>

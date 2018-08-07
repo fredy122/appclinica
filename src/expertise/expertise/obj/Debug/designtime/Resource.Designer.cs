@@ -2248,6 +2248,9 @@ namespace expertise
 			// aapt resource value: 2131296347
 			public static int design_snackbar_background = 2131296347;
 			
+			// aapt resource value: 0
+			public static int logo = 0;
+			
 			// aapt resource value: 2131296348
 			public static int navigation_empty_icon = 2131296348;
 			
@@ -2482,6 +2485,9 @@ namespace expertise
 			
 			// aapt resource value: 2131492920
 			public static int image = 2131492920;
+			
+			// aapt resource value: 0
+			public static int imageView1 = 0;
 			
 			// aapt resource value: 2131492876
 			public static int info = 2131492876;
@@ -2904,6 +2910,9 @@ namespace expertise
 			
 			// aapt resource value: 2131689498
 			public static int abc_select_dialog_material = 2131689498;
+			
+			// aapt resource value: 0
+			public static int aboutUs_activity = 0;
 			
 			// aapt resource value: 0
 			public static int activity_main = 0;

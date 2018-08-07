@@ -17,8 +17,22 @@
     <Jar>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\8\jl\bin\classes.jar</Jar>
     <Jar>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\9\jl\bin\classes.jar</Jar>
   </Jars>
-  <ResolvedResourceDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\9\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\11\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\12\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\13\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\14\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
   <ResolvedAssetDirectories />
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\9.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\11.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\12.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\13.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\dev\appclinica\src\expertise\expertise\obj\Debug\lp\14.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>
